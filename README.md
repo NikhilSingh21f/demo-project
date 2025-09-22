@@ -1,2 +1,2 @@
 # demo-project
-this is my domo project 
+This is my first Git Repository
